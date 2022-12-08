@@ -1,0 +1,19 @@
+# See https://cspell.org/configuration/
+version: "0.2"
+ignorePaths:
+  - .venv
+dictionaries:
+  - en_US
+  - softwareTerms
+  - bash
+  - python
+  - html
+  - css
+  - filetypes
+words:
+  - fastapi
+  - werkzeug
+  - pyenv
+  - mypy
+ignoreWords:
+  - zhengxs

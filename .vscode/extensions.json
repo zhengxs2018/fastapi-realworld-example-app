@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "bungcip.better-toml",
+    "irongeek.vscode-env",
+    "editorconfig.editorconfig",
+    "xyz.local-history",
+    "tabnine.tabnine-vscode",
+    "streetsidesoftware.code-spell-checker",
+  ]
+}
